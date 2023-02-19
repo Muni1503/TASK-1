@@ -138,7 +138,19 @@ border-radius: 50%;
         width:450px!important;
         height: auto;
     }
-        
+    .first,.underline{
+        padding-left:20%!important;
+        } 
+        .underline{
+            padding-left:20%;
+        }
+    .navbar ul li{
+        display:inline;
+        justify-content: center;
+        align-items:flex-start;
+        flex-direction: column;
+    }
+    
         
     
 }
